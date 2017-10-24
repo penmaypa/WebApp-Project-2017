@@ -1,0 +1,2 @@
+git commit -am "`date`"
+git pull origin master --allow-unrelated-histories
